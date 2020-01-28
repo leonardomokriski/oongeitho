@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://angahmaeph.petsmart.ai/sitemap.xml
